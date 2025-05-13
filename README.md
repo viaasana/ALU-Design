@@ -1,4 +1,8 @@
+# CE118-Lab02: Finite State Machine (FSM) Design
 
+## 👨‍💻 Author
+- **Name**: Thach Via Sa Na  
+- **Student ID**: 23520966
 ---
 
 ## 🧮 Arithmetic Unit (AU)
